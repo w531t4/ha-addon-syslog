@@ -9,7 +9,6 @@ arch:
   - armhf
   - armv7
   - i386
-image: mib85/{arch}-ha-addon-syslog
 init: false
 startup: services
 journald: true
